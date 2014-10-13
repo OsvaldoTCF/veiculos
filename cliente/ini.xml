@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DATAPACKET Version="2.0">
+  <METADATA>
+    <FIELDS>
+      <FIELD attrname="ID" fieldname="ID" fieldtype="i4"/>
+      <FIELD width="20" attrname="NOME" fieldname="NOME" fieldtype="string"/>
+      <FIELD width="2" attrname="REPRESENTACAO" fieldname="REPRESENTACAO" fieldtype="string"/>
+      <FIELD attrname="uk" fieldname="uk" fieldtype="i4"/>
+    </FIELDS>
+    <PARAMS CHANGE_LOG="2 0 4 3 0 4 1 0 4 4 0 4"/>
+  </METADATA>
+  <ROWDATA>
+    <ROW ID="1" uk="1" NOME="Ceará" RowState="4" REPRESENTACAO="CE"/>
+    <ROW ID="2" uk="0" NOME="PARAÍBA" RowState="4" REPRESENTACAO="PB"/>
+    <ROW ID="3" uk="2" NOME="Piauí" RowState="4" REPRESENTACAO="PI"/>
+    <ROW ID="4" uk="1" NOME="Bomba" RowState="4" REPRESENTACAO="BO"/>
+  </ROWDATA>
+</DATAPACKET>

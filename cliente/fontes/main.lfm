@@ -1,0 +1,38 @@
+object TelaiFrm: TTelaiFrm
+  Left = 383
+  Height = 406
+  Top = 205
+  Width = 574
+  Caption = 'Pedidos'
+  Menu = MainMenu1
+  OnClose = FormClose
+  OnCloseQuery = FormCloseQuery
+  LCLVersion = '1.2.4.0'
+  object MainMenu1: TMainMenu
+    left = 195
+    top = 125
+    object MenuItem1: TMenuItem
+      Caption = 'Cadastros'
+      object MenuItem2: TMenuItem
+        Caption = 'Oficina'
+        OnClick = MenuItem2Click
+      end
+      object MenuItem3: TMenuItem
+        Caption = 'Funcionário'
+        OnClick = MenuItem3Click
+      end
+      object MenuItem4: TMenuItem
+        Caption = 'Produto'
+        OnClick = MenuItem4Click
+      end
+    end
+    object MenuItem5: TMenuItem
+      Caption = 'Operação'
+      OnClick = MenuItem5Click
+    end
+    object MenuItem6: TMenuItem
+      Caption = 'Sair'
+      OnClick = MenuItem6Click
+    end
+  end
+end

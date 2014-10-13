@@ -1,0 +1,279 @@
+object OficinaFrm: TOficinaFrm
+  Left = 472
+  Height = 449
+  Top = 139
+  Width = 604
+  Caption = 'Oficina'
+  ClientHeight = 449
+  ClientWidth = 604
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  LCLVersion = '1.2.4.0'
+  object PageControl1: TPageControl
+    Left = 0
+    Height = 449
+    Top = 0
+    Width = 604
+    ActivePage = tsLista
+    Align = alClient
+    TabIndex = 0
+    TabOrder = 0
+    object tsLista: TTabSheet
+      Caption = 'Lista'
+      ClientHeight = 414
+      ClientWidth = 598
+      OnShow = tsListaShow
+      object Panel1: TPanel
+        Left = 0
+        Height = 72
+        Top = 0
+        Width = 598
+        Align = alTop
+        BevelInner = bvLowered
+        ClientHeight = 72
+        ClientWidth = 598
+        TabOrder = 0
+        object Edit1: TEdit
+          Left = 200
+          Height = 27
+          Top = 32
+          Width = 80
+          TabOrder = 0
+        end
+        object edFiltro: TEdit
+          Left = 296
+          Height = 27
+          Top = 32
+          Width = 296
+          AutoSize = False
+          TabOrder = 1
+        end
+        object Label1: TLabel
+          Left = 200
+          Height = 17
+          Top = 16
+          Width = 13
+          Caption = 'Id'
+          ParentColor = False
+        end
+        object Label2: TLabel
+          Left = 296
+          Height = 17
+          Top = 16
+          Width = 37
+          Caption = 'Nome'
+          ParentColor = False
+        end
+        object btnFiltar: TBitBtn
+          Left = 112
+          Height = 30
+          Top = 29
+          Width = 75
+          Caption = '&Filtrar'
+          Kind = bkHelp
+          OnClick = btnFiltarClick
+          TabOrder = 2
+        end
+        object btnIncluir1: TBitBtn
+          Left = 8
+          Height = 30
+          Top = 29
+          Width = 100
+          Caption = '&Incluir'
+          Kind = bkRetry
+          Layout = blGlyphRight
+          OnClick = btnIncluir1Click
+          TabOrder = 3
+        end
+      end
+      object stgLista: TStringGrid
+        Left = 0
+        Height = 252
+        Top = 72
+        Width = 598
+        Align = alClient
+        TabOrder = 1
+        OnDblClick = stgListaDblClick
+      end
+      object Memo1: TMemo
+        Left = 0
+        Height = 90
+        Top = 324
+        Width = 598
+        Align = alBottom
+        TabOrder = 2
+      end
+    end
+    object tsRegistro: TTabSheet
+      Caption = 'Registro'
+      ClientHeight = 414
+      ClientWidth = 598
+      object edId: TEdit
+        Left = 146
+        Height = 27
+        Top = 49
+        Width = 88
+        AutoSize = False
+        Color = 13749963
+        Enabled = False
+        TabOrder = 0
+      end
+      object Label3: TLabel
+        Left = 146
+        Height = 17
+        Top = 32
+        Width = 13
+        Caption = 'Id'
+        ParentColor = False
+      end
+      object edNome: TEdit
+        Left = 146
+        Height = 27
+        Top = 98
+        Width = 304
+        AutoSize = False
+        Color = clSilver
+        Enabled = False
+        TabOrder = 1
+      end
+      object Label4: TLabel
+        Left = 146
+        Height = 17
+        Top = 81
+        Width = 37
+        Caption = 'Nome'
+        ParentColor = False
+      end
+      object edContato: TEdit
+        Left = 146
+        Height = 27
+        Top = 146
+        Width = 304
+        AutoSize = False
+        Color = clSilver
+        Enabled = False
+        TabOrder = 2
+      end
+      object Label5: TLabel
+        Left = 146
+        Height = 17
+        Top = 129
+        Width = 49
+        Caption = 'Contato'
+        ParentColor = False
+      end
+      object edTelefone: TEdit
+        Left = 146
+        Height = 27
+        Top = 194
+        Width = 304
+        AutoSize = False
+        Color = clSilver
+        Enabled = False
+        TabOrder = 3
+      end
+      object Label6: TLabel
+        Left = 146
+        Height = 17
+        Top = 177
+        Width = 50
+        Caption = 'Telefone'
+        ParentColor = False
+      end
+      object edEndereco: TEdit
+        Left = 146
+        Height = 27
+        Top = 242
+        Width = 304
+        AutoSize = False
+        Color = clSilver
+        Enabled = False
+        TabOrder = 4
+      end
+      object Label7: TLabel
+        Left = 146
+        Height = 17
+        Top = 225
+        Width = 56
+        Caption = 'Endereço'
+        ParentColor = False
+      end
+      object edObservacao: TEdit
+        Left = 146
+        Height = 27
+        Top = 297
+        Width = 304
+        AutoSize = False
+        Color = clSilver
+        Enabled = False
+        TabOrder = 5
+      end
+      object Label8: TLabel
+        Left = 146
+        Height = 17
+        Top = 280
+        Width = 70
+        Caption = 'Observação'
+        ParentColor = False
+      end
+      object btnExcluir: TBitBtn
+        Left = 456
+        Height = 30
+        Top = 344
+        Width = 100
+        Caption = 'Excluir'
+        Kind = bkIgnore
+        Layout = blGlyphRight
+        OnClick = btnExcluirClick
+        TabOrder = 6
+      end
+      object btnSalvar: TBitBtn
+        Left = 352
+        Height = 30
+        Top = 344
+        Width = 100
+        Caption = 'Salvar'
+        Enabled = False
+        Kind = bkYes
+        Layout = blGlyphRight
+        OnClick = btnSalvarClick
+        TabOrder = 7
+      end
+      object btnEditar: TBitBtn
+        Left = 144
+        Height = 30
+        Top = 344
+        Width = 100
+        Caption = '&Editar'
+        Kind = bkRetry
+        Layout = blGlyphRight
+        OnClick = btnEditarClick
+        TabOrder = 8
+      end
+      object btnIncluir: TBitBtn
+        Left = 40
+        Height = 30
+        Top = 344
+        Width = 100
+        Caption = '&Incluir'
+        Kind = bkRetry
+        Layout = blGlyphRight
+        OnClick = btnIncluirClick
+        TabOrder = 9
+      end
+      object btnCancelar: TBitBtn
+        Left = 248
+        Height = 30
+        Top = 344
+        Width = 100
+        Cancel = True
+        Caption = '&Cancelar'
+        Kind = bkNo
+        Layout = blGlyphRight
+        OnClick = btnCancelarClick
+        TabOrder = 10
+      end
+    end
+  end
+end

@@ -1,0 +1,69 @@
+object TelaInicialFrm: TTelaInicialFrm
+  Left = 543
+  Height = 240
+  Top = 231
+  Width = 320
+  Caption = 'Controle de Frota'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '1.2.4.0'
+  object btOperador: TButton
+    Left = 112
+    Height = 25
+    Top = 8
+    Width = 100
+    Caption = 'Operador'
+    TabOrder = 0
+  end
+  object btMotorista: TButton
+    Left = 112
+    Height = 25
+    Top = 40
+    Width = 100
+    Caption = 'Motorista'
+    TabOrder = 1
+  end
+  object btOficina: TButton
+    Left = 112
+    Height = 25
+    Top = 104
+    Width = 100
+    Caption = 'Oficina'
+    OnClick = btOficinaClick
+    TabOrder = 2
+  end
+  object btAlocacao: TButton
+    Left = 112
+    Height = 25
+    Top = 136
+    Width = 100
+    Caption = 'Alocação'
+    TabOrder = 3
+  end
+  object btManutencao: TButton
+    Left = 112
+    Height = 25
+    Top = 168
+    Width = 100
+    Caption = 'Manutenção'
+    TabOrder = 4
+  end
+  object btVeiculo: TButton
+    Left = 112
+    Height = 25
+    Top = 72
+    Width = 100
+    Caption = 'Veiculo'
+    OnClick = btVeiculoClick
+    TabOrder = 5
+  end
+  object brMarca: TButton
+    Left = 112
+    Height = 25
+    Top = 196
+    Width = 100
+    Caption = 'Marca'
+    OnClick = brMarcaClick
+    TabOrder = 6
+  end
+end

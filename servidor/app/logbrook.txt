@@ -1,0 +1,1685 @@
+ControlFrota [2014-09-30 23:09:13.387 Info] 
+<PathInfo>
+/oficina/3
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-09-30 23:09:22.873 Info] 
+<PathInfo>
+/oficina/
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-09-30 23:10:10.488 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-09-30 23:10:15.480 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-09-30 23:10:28.830 Error] 
+<PathInfo>
+/oficina/4/d
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /oficina/4/d
+  $000000000048905A line 785 of ../core/brookrouter.pas
+  $0000000000480DD5 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000048573D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000485D49 line 174 of ../core/brooklogger.pas
+  $0000000000485EF7 line 203 of ../core/brooklogger.pas
+  $0000000000480F90 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-03 08:58:42.947 Info] 
+<PathInfo>
+/
+</PathInfo>
+<Content>
+Sistema de Controle de Frota
+</Content>
+ControlFrota [2014-10-03 08:58:43.245 Error] 
+<PathInfo>
+/favicon.ico
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /favicon.ico
+  $000000000048905A line 785 of ../core/brookrouter.pas
+  $0000000000480DD5 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000048573D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000485D49 line 174 of ../core/brooklogger.pas
+  $0000000000485EF7 line 203 of ../core/brooklogger.pas
+  $0000000000480F90 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-03 08:58:52.040 Error] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /motorista
+  $000000000048905A line 785 of ../core/brookrouter.pas
+  $0000000000480DD5 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000048573D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000485D49 line 174 of ../core/brooklogger.pas
+  $0000000000485EF7 line 203 of ../core/brooklogger.pas
+  $0000000000480F90 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-03 08:58:59.445 Error] 
+<PathInfo>
+/operador
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /operador
+  $000000000048905A line 785 of ../core/brookrouter.pas
+  $0000000000480DD5 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000048573D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000485D49 line 174 of ../core/brooklogger.pas
+  $0000000000485EF7 line 203 of ../core/brooklogger.pas
+  $0000000000480F90 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-03 08:59:29.428 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 09:00:15.860 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 09:10:50.554 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 09:11:11.794 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 09:14:17.489 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 09:14:58.946 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 09:17:50.755 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+
+----
+
+---
+
+</Content>
+ControlFrota [2014-10-03 09:18:00.901 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+
+----
+
+---
+
+</Content>
+ControlFrota [2014-10-03 09:18:13.684 Info] 
+<PathInfo>
+/oficina/2
+</PathInfo>
+<Content>
+
+----
+
+---
+
+</Content>
+ControlFrota [2014-10-03 09:26:39.793 Info] 
+<PathInfo>
+/oficina/2
+</PathInfo>
+<Content>
+
+
+id=2
+
+</Content>
+ControlFrota [2014-10-03 09:29:21.735 Info] 
+<PathInfo>
+/oficina/2
+</PathInfo>
+<Content>
+{ "Id" : 2, "Nome" : "", "Contato" : "", "Telefone" : "", "Endereco" : "", "Observacao" : "" }
+</Content>
+ControlFrota [2014-10-03 09:29:28.258 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+{ "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }
+</Content>
+ControlFrota [2014-10-03 09:29:34.994 Info] 
+<PathInfo>
+/oficina/3
+</PathInfo>
+<Content>
+{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }
+</Content>
+ControlFrota [2014-10-03 09:36:55.495 Info] 
+<PathInfo>
+/oficina/4
+</PathInfo>
+<Content>
+{ "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }
+</Content>
+ControlFrota [2014-10-03 09:37:02.274 Info] 
+<PathInfo>
+/oficina/
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 09:37:06.820 Info] 
+<PathInfo>
+/oficina/1
+</PathInfo>
+<Content>
+{ "Id" : 1, "Nome" : "", "Contato" : "", "Telefone" : "", "Endereco" : "", "Observacao" : "" }
+</Content>
+ControlFrota [2014-10-03 16:27:20.249 Info] 
+<PathInfo>
+/
+</PathInfo>
+<Content>
+Sistema de Controle de Frota
+</Content>
+ControlFrota [2014-10-03 16:27:20.300 Error] 
+<PathInfo>
+/favicon.ico
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /favicon.ico
+  $000000000048905A line 785 of ../core/brookrouter.pas
+  $0000000000480DD5 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000048573D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000485D49 line 174 of ../core/brooklogger.pas
+  $0000000000485EF7 line 203 of ../core/brooklogger.pas
+  $0000000000480F90 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-03 16:27:20.313 Error] 
+<PathInfo>
+/favicon.ico
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /favicon.ico
+  $000000000048905A line 785 of ../core/brookrouter.pas
+  $0000000000480DD5 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000048573D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000485D49 line 174 of ../core/brooklogger.pas
+  $0000000000485EF7 line 203 of ../core/brooklogger.pas
+  $0000000000480F90 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491B0A
+  $0000000000492D99
+  $0000000000495A93
+  $00000000004958EA
+  $00000000004A7E0F
+  $0000000000495A42
+  $00000000004803C7 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-03 16:27:31.427 Info] 
+<PathInfo>
+/oficina/
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 16:49:13.169 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 16:53:29.289 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:04:15.060 Info] 
+<PathInfo>
+/
+</PathInfo>
+<Content>
+Sistema de Controle de Frota
+</Content>
+ControlFrota [2014-10-03 17:08:23.018 Info] 
+<PathInfo>
+/
+</PathInfo>
+<Content>
+Sistema de Controle de Frota
+</Content>
+ControlFrota [2014-10-03 17:09:00.298 Info] 
+<PathInfo>
+/
+</PathInfo>
+<Content>
+Sistema de Controle de Frota
+</Content>
+ControlFrota [2014-10-03 17:09:27.699 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:14:14.113 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:15:04.152 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:15:38.729 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:16:08.293 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:18:28.576 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:20:39.638 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:21:02.798 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:21:16.894 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:21:41.774 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:22:08.038 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:24:46.939 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:55:36.809 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:56:27.153 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:58:46.072 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 17:59:21.032 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 18:00:57.007 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 18:22:08.911 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 18:34:36.723 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 18:36:04.050 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 18:36:15.257 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 18:39:17.215 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 20:38:42.148 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 20:51:59.582 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 20:52:28.617 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 4, "Nome" : "aceff", "Contato" : "Lolo", "Telefone" : "3333333", "Endereco" : "AV", "Observacao" : "Teste 5" }]
+</Content>
+ControlFrota [2014-10-03 20:52:33.009 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 20:52:38.608 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 20:52:41.050 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 20:52:41.738 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 22:53:09.074 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 22:55:51.964 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }]
+</Content>
+ControlFrota [2014-10-03 22:56:38.579 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-03 22:57:04.040 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 08:26:32.611 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 08:26:49.785 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 08:26:55.714 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 11:27:50.934 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 11:29:16.162 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 11:30:54.425 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 11:32:50.050 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 11:33:45.224 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }]
+</Content>
+ControlFrota [2014-10-04 11:36:01.090 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }]
+</Content>
+ControlFrota [2014-10-04 11:36:13.300 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }]
+</Content>
+ControlFrota [2014-10-04 11:40:34.554 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }]
+</Content>
+ControlFrota [2014-10-04 11:40:43.481 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }]
+</Content>
+ControlFrota [2014-10-04 11:43:45.750 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }]
+</Content>
+ControlFrota [2014-10-04 11:43:55.171 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }]
+</Content>
+ControlFrota [2014-10-04 11:46:52.193 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }]
+</Content>
+ControlFrota [2014-10-04 11:46:59.805 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }]
+</Content>
+ControlFrota [2014-10-04 11:48:18.641 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }]
+</Content>
+ControlFrota [2014-10-04 11:48:27.413 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }]
+</Content>
+ControlFrota [2014-10-04 11:50:46.866 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }]
+</Content>
+ControlFrota [2014-10-04 11:51:01.749 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }]
+</Content>
+ControlFrota [2014-10-04 11:55:54.715 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }]
+</Content>
+ControlFrota [2014-10-04 11:56:04.580 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }]
+</Content>
+ControlFrota [2014-10-04 11:56:22.386 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }]
+</Content>
+ControlFrota [2014-10-04 11:56:25.687 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }]
+</Content>
+ControlFrota [2014-10-04 12:06:31.917 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }]
+</Content>
+ControlFrota [2014-10-04 12:08:33.129 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }]
+</Content>
+ControlFrota [2014-10-04 12:08:43.509 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:23:00.063 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 11, "Nome" : "hhghgh", "Contato" : "ghgh", "Telefone" : "ghghg", "Endereco" : "ghghg", "Observacao" : "ghghgh" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:23:04.595 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 10, "Nome" : "dgdf", "Contato" : "sdfgsdfg", "Telefone" : "sdfgsdfg", "Endereco" : "dfgsg", "Observacao" : "sdfgsdfg" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:23:07.940 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 12, "Nome" : "sds", "Contato" : "c\\sc\\s", "Telefone" : "c\\sc\\scd", "Endereco" : "cscdmças", "Observacao" : "adasd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:23:10.852 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 6, "Nome" : "ttt", "Contato" : "ttt", "Telefone" : "ttt", "Endereco" : "ttt", "Observacao" : "ttt" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:23:14.566 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 7, "Nome" : "hhh", "Contato" : "hhh", "Telefone" : "hhh", "Endereco" : "hhh", "Observacao" : "hhh" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:23:17.733 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 8, "Nome" : "fff", "Contato" : "fff", "Telefone" : "fff", "Endereco" : "fff", "Observacao" : "fff" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:23:20.890 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:26:03.499 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:26:31.867 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }, { "Id" : 14, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 13:27:49.845 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }, { "Id" : 14, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 13:27:57.425 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "000000", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:28:09.025 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 13:28:19.952 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:33:16.508 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:33:29.311 Error] 
+<PathInfo>
+/oficinae
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /oficinae
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-04 17:34:12.624 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:34:28.364 Error] 
+<PathInfo>
+/oficinae
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /oficinae
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-04 17:34:56.965 Error] 
+<PathInfo>
+/oficina?nome=e
+</PathInfo>
+<Params>
+nome=e
+</Params>
+<Error>
+EAccessViolation exception was raised with the following message: Access violation
+  $0000000000410447
+  $000000000042CAF9
+  $000000000049662D line 393 of ../core/brookaction.pas
+  $00000000004874B7 line 421 of ../core/brookrouter.pas
+  $00000000004894B4 line 793 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-04 17:36:05.860 Error] 
+<PathInfo>
+/oficina?nome=e
+</PathInfo>
+<Params>
+nome=e
+</Params>
+<Error>
+EAccessViolation exception was raised with the following message: Access violation
+  $0000000000410447
+  $000000000042CAF9
+  $000000000049662D line 393 of ../core/brookaction.pas
+  $00000000004874B7 line 421 of ../core/brookrouter.pas
+  $00000000004894B4 line 793 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-04 17:38:54.499 Info] 
+<PathInfo>
+/oficina?nome=e
+</PathInfo>
+<Params>
+nome=e
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:39:17.629 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:39:28.719 Error] 
+<PathInfo>
+/oficinae
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /oficinae
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-04 17:39:51.305 Info] 
+<PathInfo>
+/oficina?nome=e
+</PathInfo>
+<Params>
+nome=e
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:39:59.161 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:40:16.824 Info] 
+<PathInfo>
+/oficina?nome=a
+</PathInfo>
+<Params>
+nome=a
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:40:26.425 Info] 
+<PathInfo>
+/oficina?nome=a
+</PathInfo>
+<Params>
+nome=a
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:40:27.401 Info] 
+<PathInfo>
+/oficina?nome=a
+</PathInfo>
+<Params>
+nome=a
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:40:31.248 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:40:31.852 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:40:43.929 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:40:46.602 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:40:53.153 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:48:31.671 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:51:04.059 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:51:16.269 Info] 
+<PathInfo>
+/oficina?nome=a
+</PathInfo>
+<Params>
+nome=a
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:51:22.725 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:51:23.884 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:51:33.373 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:52:22.846 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:52:36.251 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:54:00.624 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }]
+</Content>
+ControlFrota [2014-10-04 17:54:19.151 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }]
+</Content>
+ControlFrota [2014-10-04 17:54:28.987 Info] 
+<PathInfo>
+/oficina?nome=a
+</PathInfo>
+<Params>
+nome=a
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }]
+</Content>
+ControlFrota [2014-10-04 17:54:45.755 Info] 
+<PathInfo>
+/oficina?nome=ã
+</PathInfo>
+<Params>
+nome=ã
+</Params>
+<Content>
+[{ "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:54:53.356 Info] 
+<PathInfo>
+/oficina?nome=a
+</PathInfo>
+<Params>
+nome=a
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }]
+</Content>
+ControlFrota [2014-10-04 17:55:09.134 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }, { "Id" : 16, "Nome" : "ÃÃ", "Contato" : "ÃÃ", "Telefone" : "ÃÃ", "Endereco" : "ÃÃ", "Observacao" : "ÃÃ" }]
+</Content>
+ControlFrota [2014-10-04 17:55:22.419 Info] 
+<PathInfo>
+/oficina?nome=a
+</PathInfo>
+<Params>
+nome=a
+</Params>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }]
+</Content>
+ControlFrota [2014-10-04 17:55:31.315 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }, { "Id" : 16, "Nome" : "ÃÃ", "Contato" : "ÃÃ", "Telefone" : "ÃÃ", "Endereco" : "ÃÃ", "Observacao" : "ÃÃ" }]
+</Content>
+ControlFrota [2014-10-04 17:55:46.618 Info] 
+<PathInfo>
+/oficina?nome=ã
+</PathInfo>
+<Params>
+nome=ã
+</Params>
+<Content>
+[{ "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }]
+</Content>
+ControlFrota [2014-10-04 17:55:53.874 Info] 
+<PathInfo>
+/oficina?nome=Ã
+</PathInfo>
+<Params>
+nome=Ã
+</Params>
+<Content>
+[{ "Id" : 16, "Nome" : "ÃÃ", "Contato" : "ÃÃ", "Telefone" : "ÃÃ", "Endereco" : "ÃÃ", "Observacao" : "ÃÃ" }]
+</Content>
+ControlFrota [2014-10-05 01:16:03.147 Error] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /motorista
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:16:34.620 Error] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /motorista
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:17:38.802 Error] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /motorista
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:19:43.683 Error] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /motorista
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:20:13.426 Error] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /motorista
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:22:03.024 Error] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /motorista
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:22:40.913 Error] 
+<PathInfo>
+/operador
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /operador
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:22:51.848 Info] 
+<PathInfo>
+/
+</PathInfo>
+<Content>
+Sistema de Controle de Frota
+</Content>
+ControlFrota [2014-10-05 01:25:22.011 Error] 
+<PathInfo>
+/operador
+</PathInfo>
+<Error>
+EBrookHttp404 exception was raised with the following message: /operador
+  $000000000048939A line 785 of ../core/brookrouter.pas
+  $0000000000481115 line 270 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $0000000000485A7D line 90 of ../brokers/brookfcleventlogbroker.pas
+  $0000000000486089 line 174 of ../core/brooklogger.pas
+  $0000000000486237 line 203 of ../core/brooklogger.pas
+  $00000000004812D0 line 282 of ../brokers/brookfclhttpappbroker.pas
+  $0000000000491E4A
+  $00000000004930D9
+  $0000000000495DD3
+  $0000000000495C2A
+  $00000000004A814F
+  $0000000000495D82
+  $0000000000480707 line 158 of ../brokers/brookfclhttpappbroker.pas
+  $00000000004007E4 line 10 of cfrota.lpr
+  $000000000040069D
+</Error>
+ControlFrota [2014-10-05 01:27:34.249 Info] 
+<PathInfo>
+/operador
+</PathInfo>
+<Content>
+[]
+</Content>
+ControlFrota [2014-10-05 01:27:46.886 Info] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Content>
+[]
+</Content>
+ControlFrota [2014-10-05 22:46:25.138 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }, { "Id" : 16, "Nome" : "ÃÃ", "Contato" : "ÃÃ", "Telefone" : "ÃÃ", "Endereco" : "ÃÃ", "Observacao" : "ÃÃ" }]
+</Content>
+ControlFrota [2014-10-06 07:16:37.940 Info] 
+<PathInfo>
+/oficina
+</PathInfo>
+<Content>
+[{ "Id" : 3, "Nome" : "acel", "Contato" : "osvaldo tomaz filho", "Telefone" : "222222", "Endereco" : "rua", "Observacao" : "Teste" }, { "Id" : 5, "Nome" : "Afeganistão", "Contato" : "Cálcazu", "Telefone" : "1111111", "Endereco" : "Av", "Observacao" : "Nação de testes" }, { "Id" : 9, "Nome" : "ddd", "Contato" : "ddd", "Telefone" : "ddd", "Endereco" : "ddd", "Observacao" : "ddd" }, { "Id" : 13, "Nome" : "gggg", "Contato" : "gggg", "Telefone" : "ggg", "Endereco" : "ggg", "Observacao" : "ggg" }, { "Id" : 15, "Nome" : "AAA", "Contato" : "AAA", "Telefone" : "AAA", "Endereco" : "AAA", "Observacao" : "AAA" }, { "Id" : 16, "Nome" : "ÃÃ", "Contato" : "ÃÃ", "Telefone" : "ÃÃ", "Endereco" : "ÃÃ", "Observacao" : "ÃÃ" }]
+</Content>
+ControlFrota [2014-10-06 09:37:48.359 Info] 
+<PathInfo>
+/veiculo
+</PathInfo>
+<Content>
+[]
+</Content>
+ControlFrota [2014-10-06 09:38:11.211 Info] 
+<PathInfo>
+/veiculo/1
+</PathInfo>
+<Content>
+{ "Id" : 1, "Placa" : "", "Marca" : "", "Modelo" : "", "Renavan" : "", "CnhClasse" : "", "Identificacao" : "", "Ano" : "", "Kmetragem" : 0 }
+</Content>
+ControlFrota [2014-10-06 09:39:58.609 Info] 
+<PathInfo>
+/veiculo/1
+</PathInfo>
+<Content>
+{ "Id" : 1, "Placa" : "asn1234", "Marca" : "FIAT", "Modelo" : "Uno", "Renavan" : "1234567nt", "CnhClasse" : "B", "Identificacao" : "Uno do Sitio", "Ano" : "2010", "Kmetragem" : 23900 }
+</Content>
+ControlFrota [2014-10-06 10:07:03.633 Info] 
+<PathInfo>
+/operador/1
+</PathInfo>
+<Content>
+{ "Id" : 1, "Nome" : "", "Senha" : "" }
+</Content>
+ControlFrota [2014-10-06 10:07:49.418 Info] 
+<PathInfo>
+/operador/1
+</PathInfo>
+<Content>
+{ "Id" : 1, "Nome" : "Operador osvaldo", "Senha" : "123123" }
+</Content>
+ControlFrota [2014-10-06 10:08:17.197 Info] 
+<PathInfo>
+/operador
+</PathInfo>
+<Content>
+[{ "Id" : 1, "Nome" : "Operador osvaldo", "Senha" : "123123" }, { "Id" : 2, "Nome" : "Operador Clóvis", "Senha" : "123123" }]
+</Content>
+ControlFrota [2014-10-06 10:08:28.348 Info] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Content>
+[{ "Id" : 1, "Nome" : "Operador osvaldo", "Cnh" : "", "cnhclasse" : "" }, { "Id" : 2, "Nome" : "Operador Clóvis", "Cnh" : "", "cnhclasse" : "" }]
+</Content>
+ControlFrota [2014-10-06 10:08:31.431 Info] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Content>
+[{ "Id" : 1, "Nome" : "Operador osvaldo", "Cnh" : "", "cnhclasse" : "" }, { "Id" : 2, "Nome" : "Operador Clóvis", "Cnh" : "", "cnhclasse" : "" }]
+</Content>
+ControlFrota [2014-10-06 10:09:24.134 Info] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Content>
+[{ "Id" : 1, "Nome" : "Operador osvaldo", "Cnh" : "", "cnhclasse" : "" }, { "Id" : 2, "Nome" : "Operador Clóvis", "Cnh" : "", "cnhclasse" : "" }]
+</Content>
+ControlFrota [2014-10-06 10:10:06.121 Info] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Content>
+[{ "Id" : 1, "Nome" : "Operador osvaldo", "Cnh" : "", "cnhclasse" : "" }, { "Id" : 2, "Nome" : "Operador Clóvis", "Cnh" : "", "cnhclasse" : "" }, { "Id" : 3, "Nome" : "Motorista Junior", "Cnh" : "qw12121212", "cnhclasse" : "D" }]
+</Content>
+ControlFrota [2014-10-06 10:10:34.330 Info] 
+<PathInfo>
+/motorista/2
+</PathInfo>
+<Content>
+HTTP method not allowed for the requested resource.
+</Content>
+ControlFrota [2014-10-06 10:13:08.987 Info] 
+<PathInfo>
+/motorista
+</PathInfo>
+<Content>
+[{ "Id" : 1, "Nome" : "Operador osvaldo", "Cnh" : "", "cnhclasse" : "" }, { "Id" : 3, "Nome" : "Motorista Junior", "Cnh" : "qw12121212", "cnhclasse" : "D" }]
+</Content>

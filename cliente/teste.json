@@ -1,0 +1,6 @@
+[
+{ "ID" : 1; "NOME" : "Ceará"; "REPRESENTACAO" : "CE"; "uk" : 1 },
+{ "ID" : 2; "NOME" : "PARAÍBA"; "REPRESENTACAO" : "PB"; "uk" : 0 },
+{ "ID" : 3; "NOME" : "Piauí"; "REPRESENTACAO" : "PI"; "uk" : 2 },
+{ "ID" : 4; "NOME" : "Bomba"; "REPRESENTACAO" : "BO"; "uk" : 1 },
+]

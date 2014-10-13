@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <SaveOnlyProjectUnits Value="True"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <AutoCreateForms Value="False"/>
+      <Title Value="cr"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1" Active="Default">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="7">
+      <Item1>
+        <PackageName Value="lazdbexport"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="LJGridUtilsPkg"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="dOpfRT"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="FCL"/>
+      </Item4>
+      <Item5>
+        <PackageName Value="BrookRT"/>
+      </Item5>
+      <Item6>
+        <PackageName Value="RUtilsPkg"/>
+      </Item6>
+      <Item7>
+        <PackageName Value="LCL"/>
+      </Item7>
+    </RequiredPackages>
+    <Units Count="15">
+      <Unit0>
+        <Filename Value="cr.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="cr"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="97"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="fontes\main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TelaiFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="main"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="71"/>
+        <CursorPos X="22" Y="82"/>
+        <UsageCount Value="79"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="fontes\brokers.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="brokers"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="74"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="fontes\constantes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Constantes"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="15" Y="6"/>
+        <UsageCount Value="65"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="fontes\dbutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="dbutils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="13" Y="1"/>
+        <UsageCount Value="40"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="fontes\model\alocacao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Alocacao"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="21" Y="9"/>
+        <UsageCount Value="20"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="fontes\model\funcionario.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Funcionario"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="33"/>
+        <CursorPos X="43" Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="fontes\model\manutencao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="manutencao"/>
+        <UsageCount Value="20"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="fontes\model\oficina.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="oficina"/>
+        <UsageCount Value="20"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="fontes\model\produto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="produto"/>
+        <UsageCount Value="20"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="fontes\model\veiculo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="veiculo"/>
+        <UsageCount Value="20"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="fontes\view\oficinav.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="fontes\view\oficinav.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="OficinaFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="oficinav"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="272"/>
+        <CursorPos X="39" Y="281"/>
+        <UsageCount Value="20"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="fontes\view\funcionariov.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="fontes\view\funcionariov.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FuncionarioFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FuncionarioV"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="277"/>
+        <CursorPos X="1" Y="291"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit14>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="cr"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <OtherUnitFiles Value="fontes;fontes\uf;fontes\modelos;fontes\cliente;fontes\pedido;fontes\oficina;fontes\funcionario;fontes\model;fontes\view"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Debugging>
+        <DebugInfoType Value="dsDwarf2Set"/>
+      </Debugging>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <MsgFileName Value=""/>
+      </CompilerMessages>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\..\..\..\usr\share\fpcsrc\2.6.4\packages\fcl-json\src\fpjsonrtti.pp"/>
+        <Line Value="441"/>
+      </Item1>
+    </BreakPoints>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>
